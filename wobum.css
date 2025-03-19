@@ -18,15 +18,15 @@ h1 {
 }
 
 .centered-text {
-    font-size: 1.2em; 
+    font-size: 1.7em; 
     text-align: center; 
     color: white; 
 }
 
 .warning-text {
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-align: center;
     color: white;
-    padding-bottom: 10px
-    text-shadow: 2px 2px #e54141;
+    margin-bottom: 10px
+    text-shadow: 2px 2px e54141;
 }
