@@ -22,3 +22,11 @@ h1 {
     text-align: center; 
     color: white; 
 }
+
+.warning-text {
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px
+    text-shadow: 2px 2px #e54141;
+}
