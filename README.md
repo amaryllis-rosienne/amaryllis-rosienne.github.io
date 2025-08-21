@@ -1,5 +1,5 @@
-# eureia
+# eureia reality continuum 
 ## by emily 'amaryllis' rosienne
-_a worldbuilding project_
+formally a worldbuilding project simply known as eureia, now extended to be the motherverse of all my worldbuilding projects.
 
-this repository will eventually house an interactive atlas pertaining to the fictional world of eureia.
+
